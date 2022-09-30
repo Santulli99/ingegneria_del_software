@@ -1,5 +1,7 @@
 package class_test;
 
 public class Calcolatrice {
-    Calcolatrice calcolatrice;
+    public int somma(int a,int b){
+        return a+b;
+    }
 }
